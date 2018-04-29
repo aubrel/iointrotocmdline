@@ -29,9 +29,9 @@ When the [Find-A-File](https://github.com/aubrel/iointrotocmdline/tree/master/fi
 While these materials can be used to introduce basic concepts in any way, here is a walkthrough you can use if you'd like some guidance.
 
 1. Introduce the point of this exercise:
-* We are going to be trying to locate a particular file in a large directory tree, which is very much like finding a needle in a haystack.
-* The other condition of this exercise is that we don't know what the _name_ of the file we are trying to locate, and there are many files within the tree that have the same names. Thus, we are trying to locate content _within_ a file, as opposed to the _name_ of a file.
-* Luckily, we do have a clue: we have a "keyword" to search for: `VICTORY`.
+    * We are going to be trying to locate a particular file in a large directory tree, which is very much like finding a needle in a haystack.
+    * The other condition of this exercise is that we don't know what the _name_ of the file we are trying to locate, and there are many files within the tree that have the same names. Thus, we are trying to locate content _within_ a file, as opposed to the _name_ of a file.
+    * Luckily, we do have a clue: we have a "keyword" to search for: `VICTORY`.
 1. Participants [download the Find A File repo](https://github.com/aubrel/iointrotocmdline/tree/master/find-a-file) somewhere easily accessible on their machines.
 1. Participants launch their command line application.
 1. Introduce `ls`, so that participants can see the directory in the command line. Compare the GUI view with the CLI view, to demonstrate the sameness between the two.
