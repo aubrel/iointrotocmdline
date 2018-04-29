@@ -36,7 +36,8 @@ While these materials can be used to introduce basic concepts in any way, here i
 1. Participants launch their command line application.
 1. Introduce `ls`, so that participants can see the directory in the command line. Compare the GUI view with the CLI view, to demonstrate the sameness between the two.
 1. Introduce `cd`, and have participants change directories into the `find-a-file` directory.
-1. `ls` to see what the directory contains. Explain the concept of a [[directory tree]]. **Optional:** Introduce `tree`, so participants can view the directory tree and all contents of the directories visually.
+1. `ls` to see what the directory contains. Explain the concept of a directory tree. **Optional:** Introduce `tree`, so participants can view the directory tree and all contents of the directories visually.
 1. Introduce `grep`, and its relevant `man` page.
-1. Explain that the `-r` option is required due to the recursive search across many directories and files; introduce the concept of [[recursion]].
-1. 
+1. Explain that the `-r` option is required due to the recursive search across many directories and files; introduce the concept of recursion.
+
+> TK-TODO: Finish this README!
